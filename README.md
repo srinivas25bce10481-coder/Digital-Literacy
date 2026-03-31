@@ -75,7 +75,7 @@ I created and updated my professional profiles across multiple platforms to buil
 
 ## HackerRank Profile
 
-* https://www.hackerrank.com/profile/kashyap_25bai101
+* https://www.hackerrank.com/profile/srinivas_25bce11
 
 ## Achievements
 
@@ -84,10 +84,6 @@ I created and updated my professional profiles across multiple platforms to buil
 * Problem Solving (Intermediate)
 
 ## Google Workspace Task
-
-### Digital Literacy Quiz
-
-🔗 https://docs.google.com/forms/d/e/1FAIpQLSf3KafMENvEmO_ZRJX85iWwEpEk8z3juCdILNyiAtcKJHigag/viewform?usp=publish-editor
 
 ## Output
 
@@ -133,4 +129,24 @@ I practiced coding skills on HackerRank and created a Google Form quiz to spread
 
 ---
 
-## Repository Structure
+## Tools & Platforms Used
+
+* Google Workspace (Forms, Sheets, Docs)
+* Canva
+* HackerRank
+* GitHub
+
+* GitHub is widely used for version control and collaboration, allowing developers to manage projects and track changes efficiently.
+
+## Learning Outcome
+
+* Through this project, I gained practical knowledge of digital tools, online collaboration, professional communication, and cybersecurity awareness. These skills will help me in academics, internships, and future career opportunities.
+
+## Conclusion
+
+* This project enhanced my understanding of digital literacy and its importance in today’s world. It helped me build a professional presence and improved my ability to use digital tools effectively.
+
+## Author
+
+* Srinivas S.S
+* B.Tech Student – VIT Bhopal
