@@ -1,19 +1,26 @@
 Stay Safe Online: A Cybersecurity Checklist for College Students
 
 General Digital Hygiene
-Enable Two-Factor Authentication (2FA): Turn on 2FA for college email, social media, banking apps, and GitHub for extra protection layer.
-Beware of Public Wi-Fi: Never use financial apps or portals on campus/cafe Wi-Fi without VPN; hackers can steal your login details.
-Secure Your Devices: Lock laptop/phone with strong PIN/biometrics; never leave unattended in library, hostel, or labs.
-Verify Academic Links: Ignore emails about "free internships" or "scholarships" asking for registration fees - always check with faculty first.
-Limit Social Oversharing: Keep profiles private; avoid posting locations, ID cards, class schedules, or exam details publicly.
-Download Safely: Only download from official VIT LMS, GitHub repos, or trusted sites to avoid viruses and ransomware.
 
+Enable Two-Factor Authentication (2FA): Always use 2FA for your university email, social media, and banking applications to add an
+extra layer of security.
+Beware of Public Wi-Fi: Never log into financial apps or student portals on unsecured campus or cafe Wi-Fi networks without using a
+reliable VPN.
+Secure Your Devices: Keep your laptop and smartphone locked with a strong PIN or biometric lock, and never leave them unattended in the library or hostel
+common areas.
+Verify Academic Links: Be highly suspicious of unsolicited emails claiming to offer "guaranteed internships," "free laptops," or "scholarships" that ask for an upfront 
+registration fee.
+Limit Social Oversharing: Keep your social media profiles private and avoid posting real-time location data, photos of your ID cards, or your 
+daily class schedule.
+Download Safely: Only download study materials, textbooks, and software from trusted, official sources to avoid accidentally installing malware or ransomware on your devices.
 UPI & Financial Safety
-The Golden UPI Rule: UPI PIN authorizes SENDING money only. Legit companies never ask PIN for "receiving refunds/cashback."
-Set Transaction Limits: Limit daily UPI/debit card spending through banking app to protect against account compromise.
 
-How to Report Cybercrime in India
-Emergency Helpline: Call 1930 immediately for financial fraud - works 24/7 to freeze suspicious transactions instantly.
-Online Portal: Register full complaint at cybercrime.gov.in with scammer number, transaction ID, and screenshots.
+The Golden UPI Rule: Remember that entering your UPI PIN is only required to SEND money. You never need to enter your PIN to receive a refund, cashback, or payment from 
+someone else.
+Set Transaction Limits: Use your banking app to set strict daily transaction limits on your debit cards and UPI accounts to minimize potential 
+losses if your account is ever compromised.
 
+How to Report Cybercrime in India If you or someone you know falls victim to a cybercrime or financial fraud, report it immediately:
 
+Call: National Cyber Crime Reporting Helpline at 1930 (Call immediately in case of financial fraud to freeze the transaction).
+Website: Register a formal complaint at the National Cyber Crime Reporting Portal: cybercrime.gov.in
